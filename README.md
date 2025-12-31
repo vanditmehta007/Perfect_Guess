@@ -11,4 +11,3 @@ Run:
 python perfect_guess.py
 ```
 
-License: add one if you want (e.g., MIT).
